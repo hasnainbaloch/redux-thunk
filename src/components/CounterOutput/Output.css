@@ -1,0 +1,16 @@
+.box{
+
+    display: flex;
+    justify-content: center;
+    align-item: center;
+    flex-direction: column;
+    background-color: lightblue;
+    color: "#454545";
+    font-size: 30px;
+    font-weight: bold;
+    min-height: 100px;
+    padding: 20px 0;
+}
+p{
+    margin: 0
+}

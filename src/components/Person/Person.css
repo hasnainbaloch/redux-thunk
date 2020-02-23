@@ -1,0 +1,10 @@
+.card{
+    border: 1px solid #454545;
+    width: 60%;
+    margin: 50px auto;
+    height: 150px;
+    vertical-align:middle;
+}
+.card:hover{
+    cursor:pointer
+}

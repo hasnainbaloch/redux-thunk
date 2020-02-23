@@ -1,0 +1,19 @@
+.btnContainer{
+    dislay: flex;
+    justify-content: center
+}
+.btnContainer button{
+    width: 200px;
+    height: 55px;
+    margin: 10px;
+    color: #454545;
+    background-color: lightblue;
+    border: none;
+    
+}
+.btnContainer button:hover{
+    -webkit-box-shadow: -1px 1px 8px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: -1px 1px 8px 0px rgba(0,0,0,0.4);
+    box-shadow: -1px 1px 8px 0px rgba(0,0,0,0.4);
+    cursor: pointer
+}
